@@ -2,7 +2,7 @@
 
 ![preview](./.github/preview.png)
 
-![Acesse]()
+![Acesse](https://prdsilva80.github.io/cards-animados/)
 
 # 🛠️ Tecnologias utilizadas
 
