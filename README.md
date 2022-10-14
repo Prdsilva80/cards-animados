@@ -2,7 +2,7 @@
 
 ![preview](./.github/preview.png)
 
-![Acesse](https://prdsilva80.github.io/cards-animados/)
+ 🔗 [Acesse](https://prdsilva80.github.io/cards-animados/)
 
 # 🛠️ Tecnologias utilizadas
 
@@ -23,3 +23,5 @@
 # 📧 Contato
 
 <a href = "mailto:probertos717@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+
+[def]: https://prdsilva80.github.io/cards-animados/
